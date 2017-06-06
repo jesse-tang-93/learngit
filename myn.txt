@@ -1,0 +1,6 @@
+你好git仓库
+命令一   新建一个目录 mkdir
+命令二   pwd  显示当前目录
+命令三  git  init 初始化git仓库
+命令四  git add  添加git'文件  多个  用空格  隔开
+命令五  git commit -m "本次提交说明"     提交。
